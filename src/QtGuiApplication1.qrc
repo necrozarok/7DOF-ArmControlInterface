@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication1"/>
+    <qresource prefix="/ico">
+        <file>Resources/favicon-20190918095848149.ico</file>
+    </qresource>
+</RCC>
